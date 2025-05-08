@@ -4,6 +4,8 @@ This project is a Retrieval-Augmented Generation (RAG) powered chatbot that prov
 
 The system uses cutting-edge AI tools and libraries including LangChain, Pinecone, Hugging Face models, and Streamlit to deliver authoritative, domain-specific responses through a simple and intuitive web interface.
 
+https://github.com/user-attachments/assets/5f08c2f8-0148-4c92-9153-fd3d73aed36b
+
 ## Features
 
 - Domain-Specific Q&A: Answers are based on a private collection of scientific documents, not just general LLM knowledge.
