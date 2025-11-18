@@ -128,4 +128,3 @@ https://github.com/user-attachments/assets/5f08c2f8-0148-4c92-9153-fd3d73aed36b
 
 **Author**: Nadiia Geras  
 **Date**: March 26, 2025  
-**Link**: [Live Application](https://appragchatbot-rwedmfwycmrvsun8yz4eiv.streamlit.app/)
